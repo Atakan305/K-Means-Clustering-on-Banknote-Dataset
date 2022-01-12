@@ -1,8 +1,6 @@
 # K-Means-Clustering-in-Banknote-Dataset
 I used K-Means method to cluster the banknote data.
 
-I used K-Means method to cluster the banknote data.
-
 First I imported the necessary libraries and our banknote dataset using pandas. 
 After that, I calculated some statistical measures like mean, standard deviation. 
 
